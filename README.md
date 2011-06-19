@@ -1,14 +1,14 @@
+My Validator classes for Zend Framework
+=============================================
 	
-	My Validator classes for Zend Framework
+#### Usage #### 
+	- Create /Validate folder in /Library of your application, then dump this files there.
+	  Depending of your applications name change vkNgine_
+	   
+#### Example structure #### 
+	- /library/vkNgine/Validate/[FILE_NAME]
 	
-		Usage:  
-		 - Create /Validate folder in /Library of your application, then dump this files there.
-		   Depending of your applications name change vkNgine_
-		   
-		   Example structure; 
-				- /library/vkNgine/Validate/[FILE_NAME]
-	
-	   Information: 
+#### Information: ####
 		 - MatchValue.php - vkNgine_Validate_MatchValue()
 		   - Can be used to match two values		 
 		   
