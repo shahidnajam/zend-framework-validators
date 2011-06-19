@@ -33,5 +33,5 @@ Some of my Validator classes for Zend Framework
 		 - Password.php - vkNgine_Validate_User_Password()
 		   - Validating a user password, it can be used for different things if model there changed
 	  
-Volkan Yavuz
-Software Engineer
+Volkan Yavuz <br>
+Software Engineer <br>
