@@ -1,11 +1,11 @@
 Some of my Validator classes for Zend Framework
 =============================================
-	
-#### Usage #### 
+
+#### Usage ####
 	- Create /Validate folder in /Library of your application, then dump this files there.
 	  Depending of your applications name change vkNgine_
 	   
-#### Example structure #### 
+#### Example structure ####
 	- /library/vkNgine/Validate/[FILE_NAME]
 	
 #### Information: ####
