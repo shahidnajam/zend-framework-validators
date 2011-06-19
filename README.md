@@ -1,4 +1,4 @@
-My Validator classes for Zend Framework
+Some of my Validator classes for Zend Framework
 =============================================
 	
 #### Usage #### 
